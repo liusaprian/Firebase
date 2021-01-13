@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "569076704631",
+    "firebase_url": "https://login-2560b.firebaseio.com",
+    "project_id": "login-2560b",
+    "storage_bucket": "login-2560b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569076704631:android:7d42e3129f975f68b1ad72",
+        "android_client_info": {
+          "package_name": "com.liusaprian.finalandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569076704631-68u2fj9midcaun6hr7r68t895rbmr7sg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWBG2HVS_zKeOTTiUE11MVCMg12zhZ-74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569076704631-68u2fj9midcaun6hr7r68t895rbmr7sg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
